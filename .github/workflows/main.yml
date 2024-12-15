@@ -3,7 +3,7 @@ name: Run Python Script
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5 0 * * *'  # 每天00:05运行
+    - cron: '5 1 * * *'  # 每天01:05运行
 
 jobs:
   run-python-script:
@@ -21,7 +21,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Python script
-        run: python main_YH.py
+        run: python GC2000_BAK_main.py
 
       - name: Commit and push files
         run: |
