@@ -1,0 +1,32 @@
+name: Run Python Script
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '5 0 * * *'  # 每天00:05运行
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Python script
+        run: python main_YH.py
+
+      - name: Commit and push files
+        run: |
+          git config --global user.email "1564307973@qq.com"
+          git config --global user.name "Qinpengpeng"
+          git add .
+          git commit -m "Update files and logs"
+          git push
