@@ -1,0 +1,17 @@
+2025-04-20 19:47:55,正在获取网页内容...
+2025-04-20 19:47:56,当前版本号：24.2
+2025-04-20 19:47:56,已保存版本号：
+2025-04-20 19:47:56,未找到已保存版本，第一次运行
+2025-04-20 19:47:56,保存当前版本号 24.2 到 Version.txt
+2025-04-20 19:47:56,从 https://cdn.graphicode.com/pubs/PPSimpChi.zip 下载到 24.2/simplified_chinese/PPSimpChi.zip
+2025-04-20 19:48:26,下载完成：24.2/simplified_chinese/PPSimpChi.zip
+2025-04-20 19:48:26,从 https://cdn.graphicode.com/pubs/PPSimpChi_x64.zip 下载到 24.2/simplified_chinese/PPSimpChi_x64.zip
+2025-04-20 19:48:57,下载完成：24.2/simplified_chinese/PPSimpChi_x64.zip
+2025-04-20 19:48:57,从 https://cdn.graphicode.com/pubs/PPTradChi.zip 下载到 24.2/traditional_chinese/PPTradChi.zip
+2025-04-20 19:49:21,下载完成：24.2/traditional_chinese/PPTradChi.zip
+2025-04-20 19:49:21,从 https://cdn.graphicode.com/pubs/PPTradChi_x64.zip 下载到 24.2/traditional_chinese/PPTradChi_x64.zip
+2025-04-20 19:49:48,下载完成：24.2/traditional_chinese/PPTradChi_x64.zip
+2025-04-20 19:49:48,从 https://cdn.graphicode.com/pubs/powerplatform.zip 下载到 24.2/english/powerplatform.zip
+2025-04-20 19:50:18,下载完成：24.2/english/powerplatform.zip
+2025-04-20 19:50:18,从 https://cdn.graphicode.com/pubs/powerplatform_x64.zip 下载到 24.2/english/powerplatform_x64.zip
+2025-04-20 19:50:47,下载完成：24.2/english/powerplatform_x64.zip
