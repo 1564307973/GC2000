@@ -540,3 +540,7 @@
 2025-08-26 02:42:51,下载失败 25.1/english/powerplatform.zip: <urlopen error retrieval incomplete: got only 8388608 out of 166538462 bytes>
 2025-08-26 02:42:51,从 https://cdn.graphicode.com/pubs/powerplatform_x64.zip 下载到 25.1/english/powerplatform_x64.zip
 2025-08-26 02:43:20,下载完成：25.1/english/powerplatform_x64.zip
+2025-08-27 02:26:23,正在获取网页内容...
+2025-08-27 02:26:23,当前版本号：25.1
+2025-08-27 02:26:23,已保存版本号：25.1
+2025-08-27 02:26:23,当前版本已是最新版本：25.1
