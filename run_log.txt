@@ -1544,3 +1544,20 @@
 2026-05-04 04:41:20,当前版本号：25.1
 2026-05-04 04:41:20,已保存版本号：25.1
 2026-05-04 04:41:20,当前版本已是最新版本：25.1
+2026-05-05 04:17:10,正在获取网页内容...
+2026-05-05 04:17:10,当前版本号：26.1
+2026-05-05 04:17:10,已保存版本号：25.1
+2026-05-05 04:17:10,版本号不匹配，保存当前版本号 26.1 到 Version.txt
+2026-05-05 04:17:10,保存当前版本号 26.1 到 Version.txt
+2026-05-05 04:17:10,从 https://cdn.graphicode.com/pubs/PPSimpChi.zip 下载到 26.1/simplified_chinese/PPSimpChi.zip
+2026-05-05 04:17:28,下载完成：26.1/simplified_chinese/PPSimpChi.zip
+2026-05-05 04:17:28,从 https://cdn.graphicode.com/pubs/PPSimpChi_x64.zip 下载到 26.1/simplified_chinese/PPSimpChi_x64.zip
+2026-05-05 04:17:46,下载完成：26.1/simplified_chinese/PPSimpChi_x64.zip
+2026-05-05 04:17:46,从 https://cdn.graphicode.com/pubs/PPTradChi.zip 下载到 26.1/traditional_chinese/PPTradChi.zip
+2026-05-05 04:18:04,下载完成：26.1/traditional_chinese/PPTradChi.zip
+2026-05-05 04:18:04,从 https://cdn.graphicode.com/pubs/PPTradChi_x64.zip 下载到 26.1/traditional_chinese/PPTradChi_x64.zip
+2026-05-05 04:18:23,下载完成：26.1/traditional_chinese/PPTradChi_x64.zip
+2026-05-05 04:18:23,从 https://cdn.graphicode.com/pubs/powerplatform.zip 下载到 26.1/english/powerplatform.zip
+2026-05-05 04:18:41,下载完成：26.1/english/powerplatform.zip
+2026-05-05 04:18:41,从 https://cdn.graphicode.com/pubs/powerplatform_x64.zip 下载到 26.1/english/powerplatform_x64.zip
+2026-05-05 04:18:59,下载完成：26.1/english/powerplatform_x64.zip
